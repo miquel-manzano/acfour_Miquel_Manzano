@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "acfour_Miquel_Manzano", "acfour_Miquel_Manzano\acfour_Miquel_Manzano.csproj", "{B32705AC-7425-485A-AB90-D507015121D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseLibrary", "ArrayLibrary\WarehouseLibrary.csproj", "{39CDFF0A-EBC2-4541-89AD-E7D43B8EC02A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarehouseLibrary", "ArrayLibrary\WarehouseLibrary.csproj", "{39CDFF0A-EBC2-4541-89AD-E7D43B8EC02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseUnitTests", "WarehouseUnitTests\WarehouseUnitTests.csproj", "{3990947B-1786-4EC1-9001-8798FE64CB5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{39CDFF0A-EBC2-4541-89AD-E7D43B8EC02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39CDFF0A-EBC2-4541-89AD-E7D43B8EC02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39CDFF0A-EBC2-4541-89AD-E7D43B8EC02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3990947B-1786-4EC1-9001-8798FE64CB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3990947B-1786-4EC1-9001-8798FE64CB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3990947B-1786-4EC1-9001-8798FE64CB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3990947B-1786-4EC1-9001-8798FE64CB5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
