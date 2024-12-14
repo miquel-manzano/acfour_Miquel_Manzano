@@ -16,6 +16,17 @@ namespace WarehouseLibrary
             }
         }
 
+        public static void FillArray(int[] array, int num) // Sobrecarga de funcio per comprobar amb unit test. simulem el input amb un valor fix.
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                UserInteractionClass.ConsolePrint("Posicio: ", i + 1);
+                
+                array[i] = num + 1;
+                ++num;
+            }
+        }
+
         public static void PrintArray(int[] array)
         {
             for (int i = 0; i < array.Length; i++)
