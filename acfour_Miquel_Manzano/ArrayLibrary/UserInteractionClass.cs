@@ -32,6 +32,12 @@ namespace WarehouseLibrary
                 case 1:
                     Msg = $"Numero no valid, torna a probar...\n Nomes aceptem nombres naturals, 0 no inclos.";
                     break;
+                case 2:
+                    Msg = "Numeros naturals al magatzem: ";
+                    break;
+                case 3:
+                    Msg = "Numeros naturals del magatzem ordenats: ";
+                    break;
                 default:
                     Msg = "Error desconegut";
                     break;
