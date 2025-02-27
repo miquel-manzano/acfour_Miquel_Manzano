@@ -13,6 +13,8 @@ He aprofitat aquesta pràctica per practicar la utilització del git per termina
 - Utilitzacio i implementacio del Bubble Sorting
 - Unit tests per al algoritme d'ordenacio i funcio d'ompliment d'array
 
+![diagram](./T2.AC4.drawio.png)
+
 ## Bibliografia
 He utilitzar els apunts de clase, i he fet una consulta al ChatGPT pero no ha ajudat en res...
 
